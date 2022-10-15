@@ -19,5 +19,4 @@
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=fumi238000&theme=onedark)](https://github.com/fumi238000/github-profile-trophy)
