@@ -20,16 +20,20 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fumi238000&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fumi238000&theme=dracula&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fumi238000&theme=dracula)
-
-
- <!-- github-readme-stats -->
-![fumi238000's github stats](https://github-readme-stats.vercel.app/api?username=fumi238000&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fumi238000&theme=radical)
   
  <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=fumi238000&theme=onedark)](https://github.com/fumi238000/github-profile-trophy)
 
-  
+
+ <!-- github-readme-stats -->
+![fumi238000's github stats](https://github-readme-stats.vercel.app/api?username=fumi238000&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fumi238000&theme=radical)
+
+## ブログ
+今後改善予定
+- [238000_blog](https://blog-3e0d1.web.app/)
+
 <!-- 参考資料 -->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html\ -->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
