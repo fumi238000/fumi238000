@@ -34,6 +34,10 @@
 今後改善予定
 - [238000_blog](https://blog-3e0d1.web.app/)
 
+## その他
+
+- [RESUME](https://www.resume.id/fumi238000)
+
 <!-- 参考資料 -->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html\ -->
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
