@@ -30,9 +30,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fumi238000&theme=radical)
 
-## ブログ
-今後改善予定
-- [238000_blog](https://blog-3e0d1.web.app/)
+<!-- ## ブログ -->
+
+<!-- - [238000_blog](https://blog-3e0d1.web.app/) -->
 
 ## その他
 
