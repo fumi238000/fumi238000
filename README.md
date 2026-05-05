@@ -24,12 +24,6 @@
  <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=fumi238000&theme=onedark)](https://github.com/fumi238000/github-profile-trophy)
 
-
- <!-- github-readme-stats -->
-![fumi238000's github stats](https://github-readme-stats.vercel.app/api?username=fumi238000&count_private=true&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fumi238000&theme=radical)
-
 <!-- ## ブログ -->
 
 <!-- - [238000_blog](https://blog-3e0d1.web.app/) -->
